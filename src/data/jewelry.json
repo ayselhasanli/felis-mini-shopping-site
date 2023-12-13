@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "photo": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+    "name": "Basic Gold Hoop Earrings",
+    "price": "129.90"
+  },
+  {
+    "id": "2",
+    "photo": "https://images.unsplash.com/photo-1599458349289-18f0ee82e6ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
+    "name": "Basic Gold Rings",
+    "price": "105.90"
+  },
+  {
+    "id": "3",
+    "photo": "https://images.unsplash.com/photo-1603974372039-adc49044b6bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=734&q=80",
+    "name": "Basic Gold Vintage Earrings",
+    "price": "89.90"
+  },
+  {
+    "id": "4",
+    "photo": "https://images.unsplash.com/photo-1608508644127-ba99d7732fee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+    "name": "Classic Gold Rings",
+    "price": "69.90"
+  },
+  {
+    "id": "5",
+    "photo": "https://images.unsplash.com/photo-1632434553802-d916ede9c85e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+    "name": "Basic Gold Vintage Earrings",
+    "price": "129.90"
+  },
+  {
+    "id": "6",
+    "photo": "https://images.unsplash.com/photo-1590166223826-12dee1677420?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
+    "name": "Pearl Gold Earrings",
+    "price": "89.90"
+  },
+  {
+    "id": "7",
+    "photo": "https://images.unsplash.com/photo-1610694955371-d4a3e0ce4b52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Basic Gold Double Hoop Earrings",
+    "price": "99.90"
+  },
+  {
+    "id": "8",
+    "photo": "https://images.unsplash.com/photo-1613470119222-14479b4d0f46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
+    "name": "Pearl Gold Heart Earrings",
+    "price": "189.90"
+  },
+  {
+    "id": "9",
+    "photo": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+    "name": "Basic Gold Double Necklace",
+    "price": "289.90"
+  },
+  {
+    "id": "10",
+    "photo": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+    "name": "Basic Gold Double Necklace",
+    "price": "149.90"
+  },
+  {
+    "id": "11",
+    "photo": "https://images.unsplash.com/photo-1631965004544-1762fc696476?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+    "name": "Gold Heart Necklace",
+    "price": "173.90"
+  },
+  {
+    "id": "12",
+    "photo": "https://images.unsplash.com/photo-1564623788399-b75405a129a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=737&q=80",
+    "name": "Basic Gold Rings Set",
+    "price": "222.90"
+  }
+]

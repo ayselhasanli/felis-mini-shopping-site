@@ -1,0 +1,10 @@
+.faqs {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.faqs .faqs-container {
+  width: 80%;
+  padding: 20px;
+}

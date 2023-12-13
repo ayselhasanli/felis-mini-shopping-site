@@ -1,0 +1,25 @@
+#footer {
+  width: 100%;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+}
+.footer-container {
+  width: 80%;
+  margin: 0px 30px 0px 30px;
+  padding: 20px;
+}
+.socials a {
+  font-size: 25px;
+}
+.socials a:not(:first-child) {
+  margin-left: 10px;
+}
+.foo-list ul li a {
+  color: black;
+  text-decoration: none;
+}
+.link {
+  color: black;
+  text-decoration: none;
+}

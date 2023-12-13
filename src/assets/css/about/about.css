@@ -1,0 +1,34 @@
+#about {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  margin: 20px 0 20px 0;
+}
+.about-container {
+  width: 80%;
+  padding: 20px;
+}
+.about-desc p {
+  margin: 0;
+  padding: 25px 25px 25px 0px;
+}
+.about-img {
+  max-width: 100%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+}
+.readmore {
+  border-bottom: 3px solid black;
+  border-radius: 0px;
+  margin-top: 20px;
+  font-size: 13px;
+}
+.readmore:hover {
+  background-color: #f8f8f8;
+  transition: 0.7s;
+}
+.readmore:focus {
+  border: 3px solid black;
+  outline: 0;
+}

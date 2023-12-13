@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+*::selection{
+    background-color: black!important;
+    color: white!important;
+}
+.bg{
+  background-color: #f1eae4;
+}
+.regular {
+  font-weight: 400;
+}
+.bold {
+  font-weight: 700;
+}
+.ex-bold {
+  font-weight: 900;
+}
+.italic {
+  font-style: italic;
+}
+.list-unstyled {
+  list-style-type: none;
+}
+.btn {
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+}
+.d-flex {
+  display: flex;
+}
+.justify-center {
+  justify-content: center;
+}
+.align-items-center {
+  align-items: center;
+}
+.align-items-end{
+  align-items: flex-end;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-end{
+  justify-content: flex-end;
+}
+.font {
+  font-family: "Playfair Display SC", serif;
+}
+.font-style{
+  font-family: 'Kanit', sans-serif;
+}
+.text-center{
+  text-align: center;
+}
+.text-end{
+  text-align: end;
+}
+.heading-large{
+  font-size: 3rem
+}
+.heading-lmedium{
+  font-size: 1.6rem
+}
+.heading-medium{
+  font-size: 1.1rem
+}
+.pointer{
+  cursor: pointer;
+}
+.p-2{
+  padding: 20px;
+}
+.yellow{
+  color:rgba(240, 174, 52, 0.7)
+}
+.black{
+  color: rgb(0,0,0)
+}
+.w-100{
+  width: 100%!important;
+}

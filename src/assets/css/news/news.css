@@ -1,0 +1,41 @@
+#news {
+  width: 100%;
+  height: 100vh;
+}
+.news-bg {
+  width: 100%;
+  height: 90vh !important;
+  object-fit: cover;
+}
+.news-container {
+  height: 90vh !important;
+  display: inline-block;
+}
+.news {
+  width: 70%;
+  padding: 20px;
+}
+.icon {
+  color: rgba(240, 174, 52, 0.7);
+  font-size: 50px;
+}
+.shopnow {
+  border-bottom: 3px solid black;
+  border-radius: 0px;
+  margin-top: 20px;
+  font-size: 13px;
+}
+.shopnow:hover {
+  background-color: #f8f8f8;
+  transition: 0.7s;
+}
+.shopnow:focus {
+  border: 3px solid black;
+  outline: 0;
+}
+@media only screen and (max-width: 992px) {
+  .news-container {
+    width: 100%;
+    height: 400px !important;
+  }
+}
